@@ -5,7 +5,7 @@
     "@angular/common": "2.3.1",
     "@angular/compiler": "2.3.1",
     "@angular/compiler-cli": "2.3.1",
-    "@angular/core": "2.3.1",
+    "@angular/core": "10.2.5",
     "@angular/language-service": "2.3.1",
     "@angular/forms": "2.3.1",
     "@angular/http": "2.3.1",
