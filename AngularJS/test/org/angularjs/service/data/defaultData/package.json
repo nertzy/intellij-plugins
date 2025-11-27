@@ -2,7 +2,7 @@
   "name": "angular2-test-service-package-json",
   "version": "0.1.0",
   "dependencies": {
-    "@angular/common": "2.3.1",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "2.3.1",
     "@angular/compiler-cli": "2.3.1",
     "@angular/core": "2.3.1",
